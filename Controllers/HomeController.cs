@@ -15,7 +15,7 @@ namespace 新建文件夹__2_.Controllers
 
         public HomeController(ILogger<HomeController> logger)
         {
-            var asdfasdf = aksdjf;lakjsdf;;
+            var asdfasdf = aksdjf;
             _logger = logger;
         }
 
